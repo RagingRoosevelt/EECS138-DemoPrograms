@@ -46,5 +46,13 @@ anyone in the class even if they were in previous sections and no longer have ac
 * [8.3 - Simple vector operations](./8.3-SimpleVectorOps/)
 
 ### Chapter 9 - Pointers, Dynamic Arrays
+* [9.1 - Pointer examples](./9.1-PointerExamples/)
+* [9.2 - Dynamic array example](./9.2-DynamicArrayExample/)
+* [9.2 - Multi-dimensional dynamic array](./9.2-MultidimensionalDynamicArray/)
 
 ### Chapter 10 - Classes
+* [10.1 - Struct example](./10.1-Structure/)
+* [10.1 - Struct for time data](./10.1-TimeCalculator/)
+* [10.2 - Bank account class v1](./10.2-ClassExample/)
+* [10.2 - Bank account class example v2](./10.2-BankingClassExampleV2/)
+* [10.4 - Inheritance: student from person](./10.4-ClassInheritance/)
