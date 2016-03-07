@@ -2,6 +2,8 @@
 
 The programs are organized according to the chapters in 
 [Problem Solving with C++ (9 ed) by Walter Savitch](http://www.pearsonhighered.com/educator/product/Problem-Solving-with-C-9E/9780133591743.page).
+Course contents are locked into blackboard, however, I want these sample programs to be available to
+anyone in the class even if they were in previous sections and no longer have access to blackboard.
 
 ### Chapter 1 - Intro
 * [1.3 - Simple arithmetic](./1.3-SimpleCode/)
@@ -34,8 +36,14 @@ The programs are organized according to the chapters in
 * [6.x - File I/O functions](./6.x-FileIOFunctions/)
 
 ### Chapter 7 - Arrays
+* [7.1 - GPA calculation with records stored in array](./7.1-GPAs/)
+* [7.1 - GPA calculation with function calls, array parameters](./7.1-GPAs_functions/)
 
 ### Chapter 8 - Strings, Vectors
+* [8.2 - Palindrome check](./8.2-PalindromeCheck/)
+* [8.2 - String replacement](./8.2-StringReplacement/)
+* [8.3 - Store input in vector](./8.3-GetInputIntoVector/)
+* [8.3 - Simple vector operations](./8.3-SimpleVectorOps/)
 
 ### Chapter 9 - Pointers, Dynamic Arrays
 
