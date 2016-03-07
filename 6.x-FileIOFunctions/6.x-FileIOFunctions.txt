@@ -1,0 +1,4 @@
+This program will read this file until it
+finds a new line character.  Then, it will
+insert output two newline characters instead
+of one.

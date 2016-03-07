@@ -22,8 +22,16 @@ The programs are organized according to the chapters in
 
 ### Chapter 5 - More on Functions
 * [5.2 - Simple pass-by-reference demo](./5.2-PassByReferanceV1/)
+* [5.2 - Pass-by-reference value input](./5.2-PassByReferanceV2/)
+* [5.3 - Pass-by-reference swap & order](./5.3-SwapAndOrder/)
 
 ### Chapter 6 - I/O Streams, files
+* [6.1 - File outputing via function call](./6.1-FileInput/)
+* [6.1 - Moving values from file to file](./6.1-fileIO/)
+* [6.1 - File output, check if successfully opened](./6.1-FileOutput/)
+* [6.1 - Output dice rolls to file](./6.1-FileOutputDiceRoll/)
+* [6.1 - Extraction from file in while loop](./6.1-ReadingFromFile/)
+* [6.x - File I/O functions](./6.x-FileIOFunctions/)
 
 ### Chapter 7 - Arrays
 

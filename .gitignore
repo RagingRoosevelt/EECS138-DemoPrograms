@@ -30,5 +30,6 @@
 # Codeblocks 
 *.layout
 *.depend
+*.save-failed
 bin/
 obj/
