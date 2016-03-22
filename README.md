@@ -38,6 +38,7 @@ anyone in the class even if they were in previous sections and no longer have ac
 ### Chapter 7 - Arrays
 * [7.1 - GPA calculation with records stored in array](./7.1-GPAs/)
 * [7.1 - GPA calculation with function calls, array parameters](./7.1-GPAs_functions/)
+* [7.3 - Binary Search](./7.3-BinarySearch/)
 
 ### Chapter 8 - Strings, Vectors
 * [8.2 - Palindrome check](./8.2-PalindromeCheck/)
