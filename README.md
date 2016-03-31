@@ -38,11 +38,14 @@ anyone in the class even if they were in previous sections and no longer have ac
 ### Chapter 7 - Arrays
 * [7.1 - GPA calculation with records stored in array](./7.1-GPAs/)
 * [7.1 - GPA calculation with function calls, array parameters](./7.1-GPAs_functions/)
+* [7.3 - Brute Force Search](./7.3-BruteForceSearch/)
 * [7.3 - Binary Search](./7.3-BinarySearch/)
+* [7.3 - Bubble Sort](./7.3-BubbleSort/)
 
 ### Chapter 8 - Strings, Vectors
 * [8.2 - Palindrome check](./8.2-PalindromeCheck/)
 * [8.2 - String replacement](./8.2-StringReplacement/)
+* [8.2,3 - Word Frequency Counter] (./8.2,3-WordFrequencyCount/)
 * [8.3 - Store input in vector](./8.3-GetInputIntoVector/)
 * [8.3 - Simple vector operations](./8.3-SimpleVectorOps/)
 

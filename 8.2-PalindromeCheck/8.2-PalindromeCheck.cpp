@@ -32,14 +32,14 @@ int main()
 
 bool palindromeCheck(string str)
 {
-    str = onlyAlphaNumerics(str);
-    str = stringToLower(str);
-    string temp = stringReverse(str);
+    str_forward = onlyAlphaNumerics(str);
+    str_forward = stringToLower(str);
+    string str_reversed = stringReverse(str_forward);
 
     // just so we can compare ourselves
-    cout << str << endl << temp << endl;
+    cout << str_forward << endl << str_forward << endl;
 
-    if (str == temp)
+    if (str_forward == str_forward)
         return true;
     else
         return false;
