@@ -32,8 +32,8 @@ int main()
 
 bool palindromeCheck(string str)
 {
-    str_forward = onlyAlphaNumerics(str);
-    str_forward = stringToLower(str);
+    string str_forward = onlyAlphaNumerics(str);
+    str_forward = stringToLower(str_forward);
     string str_reversed = stringReverse(str_forward);
 
     // just so we can compare ourselves

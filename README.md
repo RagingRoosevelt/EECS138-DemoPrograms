@@ -36,6 +36,8 @@ anyone in the class even if they were in previous sections and no longer have ac
 * [6.x - File I/O functions](./6.x-FileIOFunctions/)
 
 ### Chapter 7 - Arrays
+* [7.1 - Opening files specified by the user](./7.1-OpeningUserSpecifiedFilenames/)
+* [7.1 - Reading from file into array](./7.1-ReadFileToArray/)
 * [7.1 - GPA calculation with records stored in array](./7.1-GPAs/)
 * [7.1 - GPA calculation with function calls, array parameters](./7.1-GPAs_functions/)
 * [7.3 - Brute Force Search](./7.3-BruteForceSearch/)
