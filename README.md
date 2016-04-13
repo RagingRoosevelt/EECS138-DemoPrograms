@@ -53,8 +53,10 @@ anyone in the class even if they were in previous sections and no longer have ac
 
 ### Chapter 9 - Pointers, Dynamic Arrays
 * [9.1 - Pointer examples](./9.1-PointerExamples/)
+* [9.1 - Pointer example: function parameter](./9.1-PointerExampleFunction/)
 * [9.2 - Dynamic array example](./9.2-DynamicArrayExample/)
 * [9.2 - Multi-dimensional dynamic array](./9.2-MultidimensionalDynamicArray/)
+* [9.2 - Multi-dim dynamic array - Computer Lab simulation](./9.2-DynamicArrayComputerLabSim/) (From Ch9 Programming Project 5)
 
 ### Chapter 10 - Classes
 * [10.1 - Struct example](./10.1-Structure/)
