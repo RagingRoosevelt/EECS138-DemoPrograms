@@ -18,7 +18,7 @@ anyone in the class even if they were in previous sections and no longer have ac
 * [4.1 - Simulating dice rolls](./4.1-RandomNumbers/)
 * [4.2 - Typecasting as a function call](./4.2-typeCasting/) (int division vs double division)
 * [4.3 - Check-if-even function](./4.3-EvenCheckFunction/)
-* [4.3 - Simple arithmatic functions](./4.3-simpleFunction/)
+* [4.3 - Simple arithmetic functions](./4.3-simpleFunction/)
 * [4.6 - Calculating the area of a pizza](./4.6-PizzaUnitArea/)
 * [4.x - Prime check function](4.x-primeCheck)
 
@@ -63,4 +63,5 @@ anyone in the class even if they were in previous sections and no longer have ac
 * [10.1 - Struct for time data](./10.1-TimeCalculator/)
 * [10.2 - Bank account class v1](./10.2-ClassExample/)
 * [10.2 - Bank account class example v2](./10.2-BankingClassExampleV2/)
+* [10.2 - TicTacToe class, 2D pointer array for board](./10.2-TicTacToe/)
 * [10.4 - Inheritance: student from person](./10.4-ClassInheritance/)
