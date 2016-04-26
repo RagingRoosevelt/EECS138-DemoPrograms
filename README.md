@@ -2,8 +2,9 @@
 
 The programs are organized according to the chapters in 
 [Problem Solving with C++ (9 ed) by Walter Savitch](http://www.pearsonhighered.com/educator/product/Problem-Solving-with-C-9E/9780133591743.page).
-Course contents are locked into blackboard, however, I want these sample programs to be available to
-anyone in the class even if they were in previous sections and no longer have access to blackboard.
+Although most of the course contents are locked into blackboard, I want these sample programs to be 
+available to anyone in the class even if they were in previous sections and no longer have access to 
+blackboard.
 
 ### Chapter 1 - Intro
 * [1.3 - Simple arithmetic](./1.3-SimpleCode/)
@@ -64,4 +65,5 @@ anyone in the class even if they were in previous sections and no longer have ac
 * [10.2 - Bank account class v1](./10.2-ClassExample/)
 * [10.2 - Bank account class example v2](./10.2-BankingClassExampleV2/)
 * [10.2 - TicTacToe class, 2D pointer array for board](./10.2-TicTacToe/)
+* [10.3 - Queue for a Grocery Checkout Line](./10.3-Queue/)
 * [10.4 - Inheritance: student from person](./10.4-ClassInheritance/)
