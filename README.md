@@ -21,7 +21,8 @@ blackboard.
 * [4.3 - Check-if-even function](./4.3-EvenCheckFunction/)
 * [4.3 - Simple arithmetic functions](./4.3-simpleFunction/)
 * [4.6 - Calculating the area of a pizza](./4.6-PizzaUnitArea/)
-* [4.x - Prime check function](4.x-primeCheck)
+* [4.x - Prime check function](./4.x-primeCheck/)
+* [4.x - Menu and Function calls](./4.x-MenuAndFunctions/)
 
 ### Chapter 5 - More on Functions
 * [5.2 - Simple pass-by-reference demo](./5.2-PassByReferanceV1/)
