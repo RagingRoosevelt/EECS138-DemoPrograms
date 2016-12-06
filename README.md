@@ -66,5 +66,7 @@ blackboard.
 * [10.2 - Bank account class v1](./10.2-ClassExample/)
 * [10.2 - Bank account class example v2](./10.2-BankingClassExampleV2/)
 * [10.2 - TicTacToe class, 2D pointer array for board](./10.2-TicTacToe/)
+* [10.2 - TicTacToe class, no pointers, 1D array](./10.2-TicTacToeV2/)
+* [10.2 - Time class](./10.2-TimeClass/)
 * [10.3 - Queue for a Grocery Checkout Line](./10.3-Queue/)
 * [10.4 - Inheritance: student from person](./10.4-ClassInheritance/)
